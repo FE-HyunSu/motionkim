@@ -1,0 +1,22 @@
+{
+  "name": "motionkim",
+  "version": "1.0.1",
+  "description": "motionkim package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://FE-HyunSu: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@github.com/FE-HyunSu/motionkim.git"
+  },
+  "keywords": [
+    "motion"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FE-HyunSu/motionkim/issues"
+  },
+  "homepage": "https://github.com/FE-HyunSu/motionkim#readme"
+}
